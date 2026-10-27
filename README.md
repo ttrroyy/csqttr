@@ -1,6 +1,6 @@
 <div align="center">
 
-# CSQTT-Rebirth
+# Soon... multi-transport via VK/MAX/Jitsi
 
 <br>
 
